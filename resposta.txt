@@ -1,0 +1,36 @@
+<p><p class="western" align="JUSTIFY" style="margin-bottom: 0cm">As
+observações astronômicas sistemáticas de Brahe, permitiu a ao seu
+assistente Keppler (1571-1630) formular as leis do movimento
+planetário, deixando clara a diferenca entre a mineração de dados
+e a análise de dados experimentais. De um lado, temos os dados
+coletados e cuidadosamente arquivados; e de  outro, a criação de
+teorias. 
+</p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0cm">Esta
+divisão é um dos aspectos determinante do quarto paradigma. Nesse
+contexto de grandes mudanças, novos papeis e responsabilidades
+emergem como críticos para a gestão de conjuntos de dados de
+pesquisa, dentre eles está o “cientista de dados” que podem ser
+cientistas da computação ou cientistas da informação, engenheiros
+de software e de base de dados, especialistas em disciplinas, entre
+outros. 
+</p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0cm">Apesar de
+não ser ainda uma carreira de contornos bem definidos e de
+reconhecimento óbvio, a sua contribuição é fundamental para um
+diálogo bem sucedido entre todas as partes envolvidas.Explicitada
+rapidamente a importância das coleções de dados de pesquisa para o
+avanço da ciência moderna, concluímos esta seção constatando que
+a ciência com uso intensivo de dados consiste de três atividades
+essenciais: captura, curadoria e análise.</p>
+<p class="western" align="JUSTIFY" style="margin-bottom: 0cm">Tendo em
+vista esse fluxo, Bell (2011) argumenta que é preciso investir na
+criação de um conjunto de ferramentas genéricas que cubram todo o
+espectro de atividades – da captura e validação dos dados à
+curadoria, analise e, finalmente, arquivamento permanente. Em todo
+esse ciclo se interpõe o desafio de manter a capacidade de
+interpretação dos dados e o seu potencial de reuso em vários
+outros contextos. Prosseguindo no nosso estudo, convidamos o leitor a
+concentrar a atenção nas soluções e modelos propostos para
+enfrentar esses desafios. 
+</p><br></p>
